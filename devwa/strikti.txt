@@ -1,0 +1,5 @@
+create table depatman (
+	Non varchar(30) not null,
+	Vil_prensipal varchar(40) not null,
+	Sipèfisi decimal not null
+);
